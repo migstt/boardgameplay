@@ -1,0 +1,23 @@
+{
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "asia-east1"
+    },
+    "rewrites": [
+      {
+        "source": "/tic-tac-toe/**",
+        "destination": "/tic-tac-toe/[id].html"
+      },
+      {
+        "source": "/gomoku/**",
+        "destination": "/gomoku/[id].html"
+      }
+    ]
+  }
+}
