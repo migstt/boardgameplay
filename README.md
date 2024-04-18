@@ -1,6 +1,6 @@
 # Real-Time Board Game: An Online App using Next.js, TypeScript, and Firebase Cloud Firestore
 
-## [Play the game here!](https://tictactoe-gomoku-online.web.app)
+## [Play the game here!](https://tictactoe-gomoku-online.web.app){:target="_blank"}
 
 #### Features:
 
